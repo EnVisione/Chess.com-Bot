@@ -1,0 +1,38 @@
+# Engines and weights (large, do not commit)
+engines/
+DEpendecies/
+Community built analyzer/
+*.pb.gz
+*.zip
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+CHROMECONSOLELOG.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Node (if any)
+node_modules/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code (machine-local)
+.claude/
+CLAUDE.md
