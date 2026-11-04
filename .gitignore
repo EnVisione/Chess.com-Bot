@@ -32,7 +32,3 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
-
-# Claude Code (machine-local)
-.claude/
-CLAUDE.md
